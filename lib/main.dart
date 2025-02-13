@@ -1,4 +1,4 @@
-import 'package:donut_app_2b_rodriguez/Pages/home_page.dart';
+import 'package:donut_app_2b_zavaleta/Pages/home_page.dart';
 import 'package:flutter/material.dart';
 
 void main() {
